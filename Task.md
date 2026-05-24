@@ -1,4 +1,3 @@
-```md id="30daypython"
 # 30 Days of Python Projects
 
 A project-based roadmap to learn Python from beginner to advanced by building real projects.
@@ -191,4 +190,3 @@ Build a REST API for a blog system using FastAPI.
 
 ## Day 30 - Personal AI Assistant
 Create a personal AI assistant capable of answering queries and automating tasks.
-```
