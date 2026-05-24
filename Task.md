@@ -1,43 +1,44 @@
+```md id="30daypython"
 # 30 Days of Python Projects
 
 A project-based roadmap to learn Python from beginner to advanced by building real projects.
 
 ---
 
-# Progress Tracker
+# Roadmap
 
-| Done | Day | Level | Project Name | Main Concepts |
-|---|---|---|---|---|
-| [ ] | 1 | Beginner | [Tip Calculator](#day-1---tip-calculator) | Variables, Input, Arithmetic |
-| [ ] | 2 | Beginner | [BMI Calculator](#day-2---bmi-calculator) | Math, Type Conversion |
-| [ ] | 3 | Beginner | [Password Generator](#day-3---password-generator) | Random Module, Strings |
-| [ ] | 4 | Beginner | [Rock Paper Scissors](#day-4---rock-paper-scissors) | Conditionals |
-| [ ] | 5 | Beginner | [Number Guessing Game](#day-5---number-guessing-game) | Loops, Random |
-| [ ] | 6 | Beginner | [To-Do List CLI](#day-6---to-do-list-cli) | Lists |
-| [ ] | 7 | Beginner | [Simple Calculator](#day-7---simple-calculator) | Functions |
-| [ ] | 8 | Beginner | [Hangman Game](#day-8---hangman-game) | Loops, Strings |
-| [ ] | 9 | Beginner | [Quiz App](#day-9---quiz-app) | Dictionaries |
-| [ ] | 10 | Beginner | [Expense Tracker](#day-10---expense-tracker) | Lists, File Handling |
-| [ ] | 11 | Intermediate | [Contact Book](#day-11---contact-book) | CRUD, Dictionaries |
-| [ ] | 12 | Intermediate | [Countdown Timer](#day-12---countdown-timer) | Time Module |
-| [ ] | 13 | Intermediate | [Weather App](#day-13---weather-app) | APIs |
-| [ ] | 14 | Intermediate | [QR Code Generator](#day-14---qr-code-generator) | Libraries |
-| [ ] | 15 | Intermediate | [URL Shortener](#day-15---url-shortener) | APIs |
-| [ ] | 16 | Intermediate | [File Organizer](#day-16---file-organizer) | OS Module |
-| [ ] | 17 | Intermediate | [PDF Merger](#day-17---pdf-merger) | File Handling |
-| [ ] | 18 | Intermediate | [Image Resizer](#day-18---image-resizer) | Pillow |
-| [ ] | 19 | Intermediate | [CSV Data Analyzer](#day-19---csv-data-analyzer) | Pandas |
-| [ ] | 20 | Intermediate | [Expense Dashboard](#day-20---expense-dashboard) | Matplotlib |
-| [ ] | 21 | Advanced | [Web Scraper](#day-21---web-scraper) | BeautifulSoup |
-| [ ] | 22 | Advanced | [Chat Application](#day-22---chat-application) | Sockets |
-| [ ] | 23 | Advanced | [Password Manager](#day-23---password-manager) | Encryption |
-| [ ] | 24 | Advanced | [AI Chatbot](#day-24---ai-chatbot) | NLP Basics |
-| [ ] | 25 | Advanced | [Task Automation Bot](#day-25---task-automation-bot) | Automation |
-| [ ] | 26 | Advanced | [Portfolio Website Backend](#day-26---portfolio-website-backend) | Flask |
-| [ ] | 27 | Pro | [Realtime Notes App](#day-27---realtime-notes-app) | Databases |
-| [ ] | 28 | Pro | [Machine Learning Predictor](#day-28---machine-learning-predictor) | Scikit-learn |
-| [ ] | 29 | Pro | [Full Stack Blog API](#day-29---full-stack-blog-api) | FastAPI |
-| [ ] | 30 | Pro | [Personal AI Assistant](#day-30---personal-ai-assistant) | APIs, AI |
+| Day | Level | Project Name | Main Concepts |
+|---|---|---|---|
+| 1 | Beginner | [Tip Calculator](#day-1---tip-calculator) | Variables, Input, Arithmetic |
+| 2 | Beginner | [BMI Calculator](#day-2---bmi-calculator) | Math, Type Conversion |
+| 3 | Beginner | [Password Generator](#day-3---password-generator) | Random Module, Strings |
+| 4 | Beginner | [Rock Paper Scissors](#day-4---rock-paper-scissors) | Conditionals |
+| 5 | Beginner | [Number Guessing Game](#day-5---number-guessing-game) | Loops, Random |
+| 6 | Beginner | [To-Do List CLI](#day-6---to-do-list-cli) | Lists |
+| 7 | Beginner | [Simple Calculator](#day-7---simple-calculator) | Functions |
+| 8 | Beginner | [Hangman Game](#day-8---hangman-game) | Loops, Strings |
+| 9 | Beginner | [Quiz App](#day-9---quiz-app) | Dictionaries |
+| 10 | Beginner | [Expense Tracker](#day-10---expense-tracker) | Lists, File Handling |
+| 11 | Intermediate | [Contact Book](#day-11---contact-book) | CRUD, Dictionaries |
+| 12 | Intermediate | [Countdown Timer](#day-12---countdown-timer) | Time Module |
+| 13 | Intermediate | [Weather App](#day-13---weather-app) | APIs |
+| 14 | Intermediate | [QR Code Generator](#day-14---qr-code-generator) | Libraries |
+| 15 | Intermediate | [URL Shortener](#day-15---url-shortener) | APIs |
+| 16 | Intermediate | [File Organizer](#day-16---file-organizer) | OS Module |
+| 17 | Intermediate | [PDF Merger](#day-17---pdf-merger) | File Handling |
+| 18 | Intermediate | [Image Resizer](#day-18---image-resizer) | Pillow |
+| 19 | Intermediate | [CSV Data Analyzer](#day-19---csv-data-analyzer) | Pandas |
+| 20 | Intermediate | [Expense Dashboard](#day-20---expense-dashboard) | Matplotlib |
+| 21 | Advanced | [Web Scraper](#day-21---web-scraper) | BeautifulSoup |
+| 22 | Advanced | [Chat Application](#day-22---chat-application) | Sockets |
+| 23 | Advanced | [Password Manager](#day-23---password-manager) | Encryption |
+| 24 | Advanced | [AI Chatbot](#day-24---ai-chatbot) | NLP Basics |
+| 25 | Advanced | [Task Automation Bot](#day-25---task-automation-bot) | Automation |
+| 26 | Advanced | [Portfolio Website Backend](#day-26---portfolio-website-backend) | Flask |
+| 27 | Pro | [Realtime Notes App](#day-27---realtime-notes-app) | Databases |
+| 28 | Pro | [Machine Learning Predictor](#day-28---machine-learning-predictor) | Scikit-learn |
+| 29 | Pro | [Full Stack Blog API](#day-29---full-stack-blog-api) | FastAPI |
+| 30 | Pro | [Personal AI Assistant](#day-30---personal-ai-assistant) | APIs, AI |
 
 ---
 
@@ -190,3 +191,4 @@ Build a REST API for a blog system using FastAPI.
 
 ## Day 30 - Personal AI Assistant
 Create a personal AI assistant capable of answering queries and automating tasks.
+```
