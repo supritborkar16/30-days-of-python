@@ -8,12 +8,6 @@
 - Conditional Statements (`if`, `elif`, `else`)
 - f-Strings
 
-## New Learning
-
-```python
-bmi = weight / (height ** 2)
-```
-
 This formula calculates BMI using weight and height.
 
 ## Output
